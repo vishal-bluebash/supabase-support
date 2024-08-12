@@ -34,7 +34,5 @@ npm install @supabase/supabase-js
 And use code from worker.js file
 
 
-Use PM2 server for node application. 
-
 
 
